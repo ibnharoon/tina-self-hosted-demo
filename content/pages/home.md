@@ -1,8 +1,8 @@
 ---
-header: Get Started by editing app/page/tsx
+header: Welcome to Student Masjid
 logo:
-  url: /next.svg
-  alt: NextJS
+  url: /studentmasjid.png
+  alt: Student Masjid
 links:
   - header: Docs
     description: Find in-depth information about Next.js features and API.
